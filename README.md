@@ -1,2 +1,2 @@
-# fourier_transform
-Fourier Transform
+#fourier transform
+Simple implementation of Fourier Transform in Python and Java.
